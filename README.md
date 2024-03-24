@@ -1,2 +1,1 @@
-# Keras-101
-This is the repo about keras library 
+# Natural Language Processing 101
